@@ -92,3 +92,5 @@ elif	    in	        while
 else	    is	        with
 except	    lambda	    yield
 ```
+
+## III. 파이썬 코드를 파일로 저장해서 실행하기
